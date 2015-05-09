@@ -15,3 +15,5 @@ r_github_packages:
 
 r_binary_packages:
   - knitr
+  
+before_install: cd BrownMotion
